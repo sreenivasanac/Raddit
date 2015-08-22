@@ -29,6 +29,8 @@ gem 'spring',        group: :development
 # Devise - for authentication - login and signup
 gem 'devise', '~> 3.5.2'
 
+gem 'bootstrap-sass', '~> 3.2.0.2'
+
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 
