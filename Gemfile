@@ -7,6 +7,8 @@ gem 'rails', '4.1.6'
 # gem 'sqlite3'
 # Postgresql gem installed for Heroku
 gem 'pg'
+# Required for heroku Deployment
+gem 'rails_12factor', group: :production
 
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 4.0.3'
@@ -37,6 +39,8 @@ gem 'bootstrap-sass', '~> 3.2.0.2'
 gem 'acts_as_votable', '~> 0.10.0'
 
 gem 'simple_form', '~> 3.0.2'
+
+ruby "2.0.0"
 
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
