@@ -16,7 +16,7 @@ test:
 production:
   <<: *default
   database: raddit_production
-
+  host: whispering-shelf-1408
 
 ## For Heroku, PostGres above is being used instead of SQLite
 
