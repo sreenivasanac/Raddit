@@ -21,7 +21,7 @@ class CommentsController < ApplicationController
 
   def create
     @link = Link.find(params[:link_id])
-    debugger
+
     @comment = @link.comments.new(comment_params)
     @comment.user = current_user
 
