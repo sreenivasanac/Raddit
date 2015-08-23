@@ -1,28 +1,14 @@
 == README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+My attempt of a Reddit-Like Website creating using Ruby on Rails after seeing some screencasts and RoR docs.
 
-Things you may want to cover:
+Users can SignUp, Login, Add Links, Upvote, Downvote and Comment.
 
-* Ruby version
+I've used Twitter Bootstrap, devise gem, acts_as_votable gem
 
-* System dependencies
+Notes that I'm taking about creating a RoR App:
+https://docs.google.com/document/d/1m9VTmwblG0RU4gow9iXEsEk2vql4sIkdqMXqvATHfCE/edit
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+Sreenivasan AC
+sreenivasan.nitt@gmail.com
+Chennai, India
