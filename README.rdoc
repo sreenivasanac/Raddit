@@ -1,4 +1,6 @@
 == README
+Demo:
+https://raddit.herokuapp.com/
 
 My attempt of a Reddit-Like Website creating using Ruby on Rails after seeing some screencasts and RoR docs.
 
